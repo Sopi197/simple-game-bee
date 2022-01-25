@@ -1,0 +1,29 @@
+
+body{
+    background: #003;
+    margin: 0;
+}
+.text {
+    margin: 0 auto;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0 0 0;
+    margin-bottom: -10px;
+    color: hotpink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-style: oblique;
+    line-height: 22px;
+    letter-spacing: 1px;
+}
+
+#ball{
+    width: 1200px;
+    height: 580px;
+    display: block;
+    margin: 20px auto 0 auto;
+    background: url(../image/photo_2021-07-30_15-05-40.jpg);
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
